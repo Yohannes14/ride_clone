@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ride_clone",
-    "slug": "ride_clone",
+    "name": "Ride",
+    "slug": "Ride",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
